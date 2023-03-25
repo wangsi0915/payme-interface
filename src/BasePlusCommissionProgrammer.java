@@ -23,7 +23,7 @@ public class BasePlusCommissionProgrammer extends CommissionProgrammer {
 private double baseSalary; 
 
 /**
- * 123
+ * 12345
  * @param firstName first name
  * @param lastName last name 
  * @param socialSecurityNumber social security number
